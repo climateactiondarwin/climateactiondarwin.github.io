@@ -1,6 +1,8 @@
 ---
 title: 'Climate Crisis: National Day of Action'
 date: 2020-02-17 10:36:00 +09:30
+Field name: 
+layout: post
 ---
 
 This [Saturday 22 January](https://www.facebook.com/events/142957683418108/), come to show your support for climate action and to write a message to Chief Minister Michael Gunner. With thousands of others around the country, we will be telling our politicians that enough is enough. Demands to be presented are as follows: 
