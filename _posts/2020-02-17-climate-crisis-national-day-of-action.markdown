@@ -17,5 +17,5 @@ This [Saturday 22 January](https://www.facebook.com/events/142957683418108/), co
 
 Volunteers for this event are needed: email [info@climateactiondarwin.org.au](info@climateactiondarwin.org.au)
 
-![national-day-of-action.jpg](/uploads/national-day-of-action.jpg)
+[![national-day-of-action.jpg](/uploads/national-day-of-action.jpg)](https://www.facebook.com/events/142957683418108/)
 
