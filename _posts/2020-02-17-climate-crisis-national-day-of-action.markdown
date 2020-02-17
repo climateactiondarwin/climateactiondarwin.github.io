@@ -3,7 +3,7 @@ title: 'Climate Crisis: National Day of Action'
 date: 2020-02-17 10:36:00 +09:30
 categories:
 - news
-Field name: 
+image: "/uploads/national-day-of-action.jpg"
 layout: post
 ---
 
