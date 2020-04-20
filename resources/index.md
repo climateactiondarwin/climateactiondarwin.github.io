@@ -8,7 +8,7 @@ lead: We'll be publishing a set of resources that will help you and the people y
 layout: content-page
 ---
 
-Climate Action Darwin has published a brochure explaining how Darwin can play a part in mitigating and preventing climate change.
+Climate Action Darwin has produced a brochure explaining the impacts of the climate crisis on the Territory and the causes of the problem. It offers a range of solutions for individuals and government.
 
 <img style="width: 50%; float: right; margin-left: 10px;" src="/assets/img/cad-brochure-splash.png" />
 
@@ -35,7 +35,7 @@ Climate Action Darwin has published a brochure explaining how Darwin can play a 
 <div style="clear: both;">
 # References
 
-The Climate Action Darwin brochure refers to several external documents, websites and resources that we've listed here for easier access. 
+The scientific data and other materials backing up our brochure are listed below. 
 
 1. 
   * [https://www.climatechangeinaustralia.gov.au/media/ccia/2.1.6/cms_page_media/168/CCIA_2015_NRM_TechnicalReport_WEB.pdf](https://www.climatechangeinaustralia.gov.au/media/ccia/2.1.6/cms_page_media/168/CCIA_2015_NRM_TechnicalReport_WEB.pdf)
