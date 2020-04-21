@@ -39,3 +39,5 @@ The repository for the website can be found [here](https://github.com/climateact
 ![editing-on-github.png](/uploads/editing-on-github.png)
 
 This complexity is what the Siteleaf interface hides you from. However, in this environment, you can also manually alter all files in the site, including its HTML templates and layouts, and its deeper configuration. You can delete and replace images and other media, and even delete the site altogether or take it offline if necessary.
+
+###### [Next: editing site templates and styles](/editing-site-templates-and-styles/)
