@@ -5,7 +5,7 @@ date: 2020-04-21 19:11:00 +09:30
 
 ###### [Back to the site user manual](/administration/)
 
-###### [Previous: creating a Gallery Post](/creating-a-gallery-post/)
+###### [Previous: editing Pages and Posts](/editing-pages-and-posts/)
 
 The site uses a [static site generator called Jekyll](https://jekyllrb.com/) to generate the containers for site content, together with the Siteleaf CMS that is used to edit content.
 
