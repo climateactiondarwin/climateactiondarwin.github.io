@@ -1,10 +1,17 @@
 <!-- Navigation -->
 <nav class="navbar navbar-dark cad-navbar static-top fixed-top">
   <div class="container">
+    {% if page.url == "/" %}
+    <span class="navbar-brand" href="/"><span class="cad-mid-blue">Climate</span>
+      <span class="cad-green">Action</span> <span class="cad-orange">Darwin</span>
+      <!-- <small class="cad-mid-blue d-none d-lg-inline d-xl-inline"><em>… a safe climate for all</em></small> -->
+    </span>
+    {% else %}
     <a class="navbar-brand" href="/"><span class="cad-mid-blue">Climate</span>
       <span class="cad-green">Action</span> <span class="cad-orange">Darwin</span>
       <!-- <small class="cad-mid-blue d-none d-lg-inline d-xl-inline"><em>… a safe climate for all</em></small> -->
     </a>
+    {% endif %}
     <button class="navbar-toggler ml-auto" type="button" data-toggle="collapse"
             data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
             aria-expanded="false" aria-label="Toggle navigation">
