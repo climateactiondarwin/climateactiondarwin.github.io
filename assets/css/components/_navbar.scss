@@ -14,6 +14,50 @@ nav.cad-navbar .navbar-brand {
   border: 1px solid #3d69a7;
   z-index: 1000;
   position: fixed;
+  
+  -webkit-animation: brand-fadein 2s; /* Safari, Chrome and Opera > 12.1 */
+  -moz-animation: brand-fadein 2s; /* Firefox < 16 */
+  -ms-animation: brand-fadein 2s; /* Internet Explorer */
+  -o-animation: brand-fadein 2s; /* Opera < 12.1 */
+  animation: brand-fadein 2s;
+}
+
+nav.cad-navbar .cad-tagline {
+  width: 300px;
+  
+  p {
+    margin-left: 2rem;
+    margin-bottom: 0;
+  }
+}
+
+@keyframes brand-fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+/* Firefox < 16 */
+@-moz-keyframes brand-fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+/* Safari, Chrome and Opera > 12.1 */
+@-webkit-keyframes brand-fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+/* Internet Explorer */
+@-ms-keyframes brand-fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+/* Opera < 12.1 */
+@-o-keyframes brand-fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
 }
 
 nav.cad-navbar .navbar-brand.cad-nav-menu-open {
