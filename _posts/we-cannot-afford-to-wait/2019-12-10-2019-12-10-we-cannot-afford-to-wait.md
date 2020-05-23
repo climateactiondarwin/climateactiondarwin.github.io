@@ -3,6 +3,7 @@ title: We cannot afford to wait
 date: 2019-12-10 12:54:00 +09:30
 categories:
 - news
+image: "/uploads/warming-trend.png"
 layout: post
 ---
 

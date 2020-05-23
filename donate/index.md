@@ -16,5 +16,5 @@ layout: content-page
 &nbsp;<i class="fas fa-arrow-right"></i>
 </h4>
 
-We're building a climate movement in Darwin and to do that, we need your support. Please use our donation button to contribute to Climate Action Darwin via our crowd-funding platform, GiveNow. Thanks!
+To build the climate movement in Darwin we need your support. Please make a tax-deductible donation via our crowd-funding platform, GiveNow. Thank you!
 

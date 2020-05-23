@@ -1,0 +1,16 @@
+div.cad-dropdown-menu {
+    color: white;
+    background-color: $cad-mid-blue;
+    border: 1px solid white;
+    border-radius: 0px;
+
+    a.dropdown-item {
+        color: white;
+        background-color: $cad-mid-blue;
+    }
+
+    a.dropdown-item:hover {
+        color: $cad-green;
+        background-color: white;
+    }
+}

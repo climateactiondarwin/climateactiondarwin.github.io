@@ -1,5 +1,5 @@
 <!-- Navigation -->
-<nav class="navbar navbar-dark cad-navbar static-top fixed-top">
+<nav class="navbar navbar-dark navbar-expand-md cad-navbar static-top fixed-top">
   <div class="container">
     {% if page.url == "/" %}
     <span class="navbar-brand" href="/"><span class="cad-mid-blue">Climate</span>
@@ -16,26 +16,23 @@
       </p>
     </div>
     <button class="navbar-toggler ml-auto" type="button" data-toggle="collapse"
-            data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+            data-target="#navbarContent" aria-controls="navbarContent"
             aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
-    <div class="collapse navbar-collapse" id="navbarSupportedContent">
-      <ul class="navbar-nav mr-auto">
-        <!-- <li class="nav-item active"> -->
-        <!-- <a class="nav-link" href="/about/">About <span class="sr-only">(current)</span></a> -->
-        <!-- </li> -->
-        <li class="nav-item">
-          <a class="nav-link" href="/about/">About</a>
-        </li>
+    <div class="collapse navbar-collapse" id="navbarContent">
+      <ul class="navbar-nav ml-auto">
         <li class="nav-item">
           <a class="nav-link" href="/news/">News</a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link" href="/what-we-do/">What we do</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="/contact/">Contact</a>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="aboutDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            About
+          </a>
+          <div class="dropdown-menu cad-dropdown-menu" aria-labelledby="aboutDropdown">
+            <a class="dropdown-item" href="/about/">About</a>
+            <a class="dropdown-item" href="/what-we-do/">What we do</a>
+          </div>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="/resources/">Resources</a>
@@ -43,8 +40,14 @@
         <li class="nav-item">
           <a class="nav-link" href="/donate/">Donate</a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link" href="/signup/">Sign up</a>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="contactDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Contact 
+          </a>
+          <div class="dropdown-menu cad-dropdown-menu" aria-labelledby="contactDropdown">
+            <a class="dropdown-item" href="/contact/">Contact us</a>
+            <a class="dropdown-item" href="/signup/">Sign up</a>
+          </div>
         </li>
       </ul>
     </div>
