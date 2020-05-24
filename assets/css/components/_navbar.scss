@@ -6,7 +6,6 @@ nav.cad-navbar {
 nav.cad-navbar .navbar-brand {
   background-color: white;
   margin-top: 20px;
-  margin-left: -20px;
   padding: 15px;
   font-size: x-large;
   font-weight: bold;
@@ -14,7 +13,6 @@ nav.cad-navbar .navbar-brand {
   border: 1px solid #3d69a7;
   z-index: 1000;
   position: fixed;
-  
   -webkit-animation: brand-fadein 2s; /* Safari, Chrome and Opera > 12.1 */
   -moz-animation: brand-fadein 2s; /* Firefox < 16 */
   -ms-animation: brand-fadein 2s; /* Internet Explorer */
@@ -25,7 +23,7 @@ nav.cad-navbar .navbar-brand {
 nav.cad-navbar .cad-slogan {
   width: 300px;
   margin-left: 17rem;
-  
+
   p {
     margin-bottom: 0;
   }
@@ -69,4 +67,8 @@ nav.cad-navbar .nav-item .nav-link {
   color: white;
 }
 
-
+@media (min-width: 768px) {
+  nav.cad-navbar .navbar-brand {
+    margin-left: -20px;
+  }
+}
