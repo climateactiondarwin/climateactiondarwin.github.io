@@ -5,3 +5,6 @@ categories:
 - big-picture-solutions
 ---
 
+# The Indigenous carbon industry
+
+Lorem ipsum dolor sit amet.
