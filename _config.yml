@@ -2,11 +2,11 @@
 title: Climate Action Darwin
 timezone: Australia/Darwin
 collections:
-  handbook:
-    title: Handbook
-    output: true
   posts:
     title: Posts
+    output: true
+  handbook:
+    title: Top End Climate Handbook
     output: true
   uploads:
     title: Uploads
