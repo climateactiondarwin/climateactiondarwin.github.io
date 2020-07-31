@@ -1,6 +1,6 @@
 
 div.cad-mosaic-container {
-  margin-top: 3.5rem;
+  margin-top: 4rem;
 
   img {
     width: 100%;
@@ -20,7 +20,7 @@ div.cad-mosaic-container {
       color: white;
       align-items: left;
       display: flex;
-      padding: 1em 3em;
+      padding: 2em 3em 1em 3em;
       cursor: default;
       overflow: hidden;
       width: 100%;
@@ -75,9 +75,6 @@ div.cad-mosaic-container {
         justify-content: center;
         border: 0;
         height: 100%;
-        // left: 0;
-        // position: absolute;
-        // top: 0;
         width: 100%;
         z-index: 4;
       }
@@ -98,10 +95,6 @@ div.cad-mosaic-container {
         position: absolute;
         width: 100%;
         z-index: 2;
-      }
-
-      &.narrow {
-        width: 33.33% !important;        
       }
 
       &:after {

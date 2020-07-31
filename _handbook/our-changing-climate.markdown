@@ -6,6 +6,4 @@ categories:
 layout: content-page
 ---
 
-# Our changing climate
-
 Lorem ipsum dolor sit amet.
