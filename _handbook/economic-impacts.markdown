@@ -14,18 +14,16 @@ Climate change is already lowering workforce productivity and food security. [NT
 
 If current emission rates continue, it has been calculated that [climate change will cost Australian households roughly $20,000 per year](https://pursuit.unimelb.edu.au/articles/the-great-climate-depression), or an average of $61,000 between now and the end of the century for each Australian.
 
-**TODO: embed video**
-
-Migration and Climate Refugees
+### Migration and climate refugees
  
-As islands and remote coastal communities are slowly inundated, North Australia will be the destination of refugees affected by sea-level rise, drought and extreme weather. Within Australia, Darwin residents and others in the north are already relocating to southern Australia due to increasing temperatures and drought.
+As islands and remote coastal communities are slowly inundated, North Australia will be the destination of refugees affected by sea-level rise, drought and extreme weather. Within Australia, Darwin residents and others in the north are [already relocating to southern Australia due to increasing temperatures and drought](https://www.youtube.com/watch?v=oCeYJPwUaTg).
 
-(Tom Embed Video from above URL)
+**TODO: embed video from link above**
 
 Within the NT, remote residents are already increasingly moving into larger towns. Increasing heat in Top End communities will compound other pre-existing challenges such as changing water availability and insufficient resources and infrastructure to adapt, which may result in increased migration into Darwin.
 
-Tourism Impacts
+### Tourism impacts
  
-Kakadu National Park is the Top End’s world-heritage-listed tourism icon. The Kakadu floodplain is only 0.2–1.2m above sea level, making it vulnerable to even minimal sea level rise. 50 to 80% of Kakadu’s beautiful freshwater wetlands are predicted to be destroyed by rising sea-levels in the next fifty years. This will shrink the habitat of iconic wetland birds such as Magpie Geese and other important Indigenous food sources.
+Kakadu National Park is the Top End’s world-heritage-listed tourism icon. The Kakadu floodplain is only 0.2–1.2m above sea level, making it vulnerable to even minimal sea level rise. 50–80% of [Kakadu’s beautiful freshwater wetlands are predicted to be destroyed by rising sea-levels in the next fifty years](https://www.researchgate.net/publication/326149933_An_integrated_risk-assessment_framework_for_multiple_threats_to_floodplain_values_in_the_Kakadu_Region_Australia_under_a_changing_climate). This will shrink the habitat of iconic wetland birds such as Magpie Geese and of other important Indigenous food sources.
  
 In Central Australia, outdoor tourism during summer has already become increasingly hazardous due to hotter days and longer heatwaves.
