@@ -14,7 +14,7 @@ Four of Darwin’s hottest years on record have [occurred since 2016](https://ww
 
 At current rates of warming, in 2030 Darwin is likely to have [an average of 132 days (4 months) over 35°C per year](http://www.bom.gov.au/climate/climate-guides/), and 275 days (8 months) over 35°C on average each year in 2070.
 
-(chart of mean temperatures)
+![frequency-of-extreme-heat-events.png](/uploads/frequency-of-extreme-heat-events.png)
 
 ### Rainfall
 
