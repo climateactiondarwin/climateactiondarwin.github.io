@@ -24,3 +24,8 @@ Currently there are over 29 Indigenous savanna fire projects working across 17.9
 
 > “This fire management program has been successful on so many levels: culturally, economically and environmentally. Through reinstating traditional burning practices, new generations of landowners have been trained in traditional and western fire management, hundreds of thousands of tonnes of greenhouse gas have been abated, and the landscape is being managed in the right way.”
 > —Dean Yibarbuk, Fire Ecologist and Senior Traditional Owner, West Arnhem Land
+
+**What you can do:**
+ 
+* write to your local politician to encourage them to support Indigenous land managers [caring for country](http://www.countryneedspeople.org.au), fund the critical [North Australia Fire Information service](http://www.firenorth.org.au)  and advocate for Indigenous-led climate change responses which enhance the capacity for Indigenous people to care for their own country
+* if you are a shareholder, insist your company becomes carbon neutral, divests from fossil fuels and offsets its impact by purchasing Indigenous carbon credits
